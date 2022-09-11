@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = '世界上最可爱的潘潘酱Pancake'
 theme = "timeline"
 
+[author]
+  name = "制作by 传说中的洞洞"
 
 [params]
   upname = "潘潘"
