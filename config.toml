@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '世界上最可爱的潘潘Pancake'
+theme = "timeline"
+
+
+[params]
+  upname = "潘潘"
+  daytotoday = "半年"
+  uplink = "https://space.bilibili.com/10726207/"
